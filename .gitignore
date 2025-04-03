@@ -9,6 +9,10 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+node_modules
+
+# Environment variables files
+.env
 
 # testing
 /coverage
